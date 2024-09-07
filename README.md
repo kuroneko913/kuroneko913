@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://komarev.com/ghpvc/?username=kuroneko913&color=green)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/myblackcat7112/posts.svg)](http://qiita.com/myblackcat7112)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/myblackcat7112/contributions.svg)](http://qiita.com/myblackcat7112)
 [![Articles](https://badgen.org/img/zenn/kuroneko913/articles?style=plastic)](https://zenn.dev/kuroneko913)
 
 <!--START_SECTION:lapras-card-->
