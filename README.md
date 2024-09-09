@@ -24,7 +24,7 @@ Last Updated on 9/9/2024, 12:49:49 AM</p>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,docker,aws,laravel" />
 <br>
 
-## 🏃‍♀️ Activities
+## 🏃‍♀️ Activities (public repository only!)
 <div align="left"> 
   <img alt="top languages by repo" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuroneko913&theme=github_dark" />
   <img alt="top languages by commit" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuroneko913&theme=github_dark" />
