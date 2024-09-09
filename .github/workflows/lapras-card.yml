@@ -8,8 +8,14 @@ on:
 jobs:
   update-card:
     name: LAPRAS Card
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest        
     steps:
+      - name: Set up JA_JP locale
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y locales
+          sudo locale-gen ja_JP.UTF-8
+          sudo update-locale LANG=ja_JP.UTF-8
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "kuroneko913"
