@@ -26,6 +26,11 @@ Last Updated on 9/9/2024, 12:49:49 AM</p>
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kuroneko913&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroneko913&theme=vue-dark&layout=compact" />
+  <img alt="top languages by repo" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuroneko913&theme=github_dark" />
+  <img alt="top languages by commit" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuroneko913&theme=github_dark" />
 </div>
+<div align="left">
+  <img alt="GitHub stats card" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuroneko913&theme=github_dark&layout=compact" />
+  <img alt="Productive time card" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kuroneko913&theme=github_dark&utcOffset=9" />
+</div>
+
