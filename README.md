@@ -14,8 +14,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuroneko913&theme=github_dark)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/kuroneko913" target="_blank" rel="noopener noreferrer"><img alt="kuroneko913のLAPRASでのスコアは次の通りです: エンジニアリング: 3.65 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.35 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.65&b=3.48&i=3.35&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 9/9/2024, 12:49:49 AM</p>
+<p ><a href="https://lapras.com/public/kuroneko913" target="_blank" rel="noopener noreferrer"><img alt="kuroneko913's scores on LAPRAS are as follows: Engineering: 3.65 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.35 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.65&b=3.48&i=3.35&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 9/9/2024, 3:47:06 PM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
