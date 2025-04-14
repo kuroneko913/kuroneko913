@@ -15,7 +15,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/kuroneko913" target="_blank" rel="noopener noreferrer"><img alt="kuroneko913's scores on LAPRAS are as follows: Engineering: 3.7 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.4 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.7&b=3.48&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 4/13/2025, 11:25:37 AM</p>
+Last Updated on 4/14/2025, 9:58:50 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
