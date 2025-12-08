@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning NextJS!
 - 📫 How to reach me: [Twitter - @myblackcat7112](https://twitter.com/myblackcat7112)
-- 📒 Blog: [Blog](myblackcat913.com) 
+- 📒 Blog: [Blog](https://myblackcat913.com) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kuroneko913&color=green)
