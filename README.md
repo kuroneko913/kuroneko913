@@ -1,7 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning NextJS!
+- 🛠️ Currently building products with TypeScript / Next.js.
+- 🎖️ AWS Certified Cloud Practitioner (CLF-C02)
 - 📫 How to reach me: [Twitter - @myblackcat7112](https://twitter.com/myblackcat7112)
 - 📒 Blog: [Blog](https://myblackcat913.com) 
 <br>
@@ -19,7 +20,26 @@ Last Updated on 9/23/2026, 11:32:53 AM</p>
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,docker,aws,laravel" />
+
+**Languages** &nbsp;
+<img alt="languages" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,js,php,python,html,css" />
+
+**Frameworks & Runtime** &nbsp;
+<img alt="frameworks and runtime" src="https://skillicons.dev/icons?theme=dark&perline=7&i=nextjs,react,nodejs,laravel" />
+
+**Infrastructure & Data** &nbsp;
+<img alt="infrastructure and data" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,docker,mysql" />
+<br>
+
+## 🎖️ Certifications
+
+<a href="https://www.credly.com/badges/86d1ccc9-b76e-4aaa-8059-1c81adc56b71/public_url" target="_blank" rel="noopener noreferrer">
+  <img alt="AWS Certified Cloud Practitioner" height="130" src="assets/aws-certified-cloud-practitioner.png" />
+</a>
+
+| Certification | Issued | Valid Through | Verify |
+| --- | --- | --- | --- |
+| AWS Certified Cloud Practitioner (CLF-C02) | Jan 2025 | Jan 2028 | [Credly](https://www.credly.com/badges/86d1ccc9-b76e-4aaa-8059-1c81adc56b71/public_url) |
 <br>
 
 ## 🏃‍♀️ Activities (public repository only!)
