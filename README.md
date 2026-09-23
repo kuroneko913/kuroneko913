@@ -29,6 +29,11 @@ Last Updated on 9/23/2026, 11:32:53 AM</p>
 
 **Infrastructure & Data** &nbsp;
 <img alt="infrastructure and data" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,docker,mysql" />
+
+**AI-Assisted Development** &nbsp;
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white" />
+<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP%20Server%20Dev-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
 <br>
 
 ## 🎖️ Certifications
